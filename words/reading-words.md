@@ -1,6 +1,44 @@
 # Reading Words
 
-## 九分达人
+## 九分达人4
+
+### TEST1
+
+#### questions
+
+```text
+prejudice 偏见
+potential 潜在的
+reverse psychology 逆向心理学
+soil 土地
+cultivate 培育
+high yielding potato crops 高产马铃薯作物
+
+Ancient Chinese Chariots 中国古代战车
+tomb 坟墓
+grave 坟墓；严重的
+hub 枢纽
+lubricate oil 润滑油
+tempered 脾气暴躁的；缓和的
+axle 轴
+resemble 类似
+wrap up 包起来
+road surface 路面
+sand 沙子
+afterlife palace 来世宫殿
+be buried in 被埋在
+
+relative 亲戚
+long term hunger 长期饥饿
+period 时期
+pregnant 怀孕的
+vaccine 疫苗
+combat against 对抗
+```
+
+
+
+## 九分达人5
 
 ### TEST4
 
