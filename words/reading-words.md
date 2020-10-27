@@ -36,6 +36,51 @@ vaccine 疫苗
 combat against 对抗
 ```
 
+### TEST2
+
+#### questions
+
+```text
+alternative 二中择一的
+
+corporate social responsibility 企业社会责任*
+drives or pressures motivate companies to address CSR 驱动力或压力促使公司着手解决企业社会责任
+initiative 倡议*
+implement 实行*
+
+mother tongue 母语*
+grasp 把握
+suspicious 怀疑的
+bilingual 双语的
+acquire 获得*
+converse 交流*
+remarkable 卓越的
+proposition 主张*
+linguistic 语言学
+particular 特定的*
+employ 采用
+settle in 定居
+circumstance 环境*
+dislocation 错位
+```
+
+#### articles
+
+```text
+apprentice 学徒；当学徒
+disciple 弟子
+
+evolve 发展
+intersect 相交
+corporate citizenship 企业公民
+involve 涉及
+specify 指明
+incidental 附带的
+potentially 潜在地
+
+self-interest 自身利益
+```
+
 
 
 ## 九分达人5
