@@ -7,6 +7,7 @@
   *  同义词查询：https://www.thesaurus.com/
   *  查询是否有文章写过这种用语：https://ludwig.guru/
   * 写作：https://ieltsliz.com/
+  * KFM（好未来）：https://ielts.kmf.com/home
 
 
 

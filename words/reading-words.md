@@ -81,6 +81,73 @@ potentially 潜在地
 self-interest 自身利益
 ```
 
+### TEST3
+
+#### questions
+
+```text
+voyage 航程
+Captain Cook 库克船长
+Hawaii 夏威夷
+inhabitant 居民
+cemetery 公墓
+bury 埋葬
+plain 平淡
+urn 骨坛
+assit in 协助
+reveal 揭示
+rock 石头
+canoe 独木舟
+trade winds 信风
+
+guarantee 保证
+proficiency 熟练程度
+be integrated into 
+constitute of 构成
+shift 转移
+reveal 揭示
+strikingly 惊人地
+perceived 感知的
+
+habitat 栖息地
+alleviate 减轻
+
+```
+
+#### articles
+
+```text
+headwind 逆风
+detect 检测
+abundant 丰富的
+tide 浪潮
+inhabit 居住于
+tongue 舌
+paddle out 划桨
+grave 墓
+Pacific 太平洋的
+stretch 延伸
+colonize 殖民
+tropical 热带
+pottery 陶器
+
+in terms of 就...而言
+discipline 学科
+proficiency 熟练程度
+draw on 应用
+trigger 触发
+induce 引诱
+intuitively 直观地
+
+destruction 破坏
+forest were felled 砍伐森林（固定搭配）
+primate 灵长类动物
+plant toxin 植物毒素
+defuse the poison 解毒
+reproduce 复制，繁殖
+bear a child 生孩子
+```
+
 
 
 ## 九分达人5
