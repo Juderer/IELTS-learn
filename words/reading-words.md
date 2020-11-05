@@ -126,26 +126,95 @@ tongue 舌
 paddle out 划桨
 grave 墓
 Pacific 太平洋的
-stretch 延伸
+stretch 延伸*
 colonize 殖民
-tropical 热带
+tropical 热带*
 pottery 陶器
 
-in terms of 就...而言
-discipline 学科
+in terms of 就...而言*
+discipline 学科*
 proficiency 熟练程度
 draw on 应用
 trigger 触发
 induce 引诱
 intuitively 直观地
 
-destruction 破坏
+destruction 破坏*
 forest were felled 砍伐森林（固定搭配）
-primate 灵长类动物
+primate 灵长类动物*
 plant toxin 植物毒素
 defuse the poison 解毒
-reproduce 复制，繁殖
+reproduce 复制，繁殖*
 bear a child 生孩子
+```
+
+### TEST4
+
+#### questions
+
+```text
+ranch 牧场
+dinosaur 恐龙
+distinctive 独特的
+prey 猎物
+predator 捕食者
+equivalent 相等的
+vulture 秃鹰
+hypothesis 假设
+ratio 比例
+
+toxic 有毒的*
+fungus 真菌
+parasite 寄生虫
+sufficient 足够的
+microscope 显微镜
+substance 物质*
+suppress 抑制
+
+pollination 授粉
+hive 蜂巢
+honeybee 蜜蜂
+pesticide 杀虫剂
+underline 强调
+severe 严厉的
+specific 特别的
+commerce 贸易*
+fragile 易碎的*
+```
+
+#### articles
+
+```text
+a dime a donze 多得多
+
+poison 毒药，有毒的*
+marvel 奇迹
+primitive 原始的
+strain 种类
+propagate 传播
+breed 品种；繁殖*（过去式bred）
+variety 种类
+domesticate 驯养*
+domestic 国内的*
+patch 斑点
+harbour/harbor 包含，藏有*
+bacterium 细菌*
+pharmaceutical industry 制药业
+antibiotic 抗生素*
+wax 蜡
+
+collapse 倒塌*
+scarce 缺乏的
+wipe out 消灭*
+sterile 贫瘠的
+scrub 用力擦洗
+vulnerable 易受攻击的
+assembly 装配；汇编
+leach out 过滤
+resilience 恢复力
+natural ecosystem 自然生态系统
+extinction 灭绝*
+suburb 郊区*
 ```
 
 
