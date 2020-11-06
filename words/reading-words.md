@@ -111,7 +111,6 @@ perceived 感知的
 
 habitat 栖息地
 alleviate 减轻
-
 ```
 
 #### articles
@@ -156,8 +155,8 @@ bear a child 生孩子
 ranch 牧场
 dinosaur 恐龙
 distinctive 独特的
-prey 猎物
-predator 捕食者
+prey 猎物*
+predator 捕食者*
 equivalent 相等的
 vulture 秃鹰
 hypothesis 假设
@@ -215,6 +214,48 @@ resilience 恢复力
 natural ecosystem 自然生态系统
 extinction 灭绝*
 suburb 郊区*
+```
+
+### TEST5
+
+#### questions
+
+```text
+twig 枝条
+tandem 串联的
+cheetah 猎豹
+entirely 完全地*
+
+durable 耐用的* / duration 持续时间
+starch 淀粉
+
+the polar region 极地地区
+wind belt 风带
+mositure 湿气
+moisture deficit 水分不足
+grain 粮食
+altitude 高度
+cumulative changes 累积的变
+alterations in the volume and thickness of glaciers 冰川体积和厚度的变化
+internal deformation 内部变形
+basal sliding 基础滑行
+atmospheric 大气的
+a particular example 一个特殊的例子
+high tides 高潮
+diminish 减少*
+agriculture sector 农业部门*
+conservative 保守的
+vulnerable 脆弱的*
+glacier melt 冰川融化*
+```
+
+#### articles
+
+```text
+bidirectional feedback 双向反馈*
+teacher and pupil 老师和学生
+
+nor 也不*
 ```
 
 
