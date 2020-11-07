@@ -256,6 +256,17 @@ astronaut 宇航员
 grease 油脂
 *Britain / UK 英国
 
+*theoretical / theory 理论的 / 理论
+subordinate 下属
+*organization / organize / organizational 组织
+optimise 优化
+career fulfillment 职业成就
+recognition 承认
+comprehend 理解
+*repeat / repetitive / repetition v.重复/重复的/n.重复
+*corporate / corporation / incorparte 企业的/企业/合并
+*commit / commitment 犯/承诺
+incentive 激励的
 ```
 
 ```text
@@ -269,6 +280,9 @@ graphite 石墨
 military 军事
 counterpart 对应物
 *spectrum 范围；光谱
+
+comprehensive 全面的
+lever 杠杆
 ```
 
 
