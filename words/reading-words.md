@@ -4,8 +4,6 @@
 
 ### TEST1
 
-#### questions
-
 ```text
 prejudice 偏见
 potential 潜在的
@@ -38,8 +36,6 @@ combat against 对抗
 
 ### TEST2
 
-#### questions
-
 ```text
 alternative 二中择一的
 
@@ -64,8 +60,6 @@ circumstance 环境*
 dislocation 错位
 ```
 
-#### articles
-
 ```text
 apprentice 学徒；当学徒
 disciple 弟子
@@ -82,8 +76,6 @@ self-interest 自身利益
 ```
 
 ### TEST3
-
-#### questions
 
 ```text
 voyage 航程
@@ -112,8 +104,6 @@ perceived 感知的
 habitat 栖息地
 alleviate 减轻
 ```
-
-#### articles
 
 ```text
 headwind 逆风
@@ -149,8 +139,6 @@ bear a child 生孩子
 
 ### TEST4
 
-#### questions
-
 ```text
 ranch 牧场
 dinosaur 恐龙
@@ -180,8 +168,6 @@ specific 特别的
 commerce 贸易*
 fragile 易碎的*
 ```
-
-#### articles
 
 ```text
 a dime a donze 多得多
@@ -218,8 +204,6 @@ suburb 郊区*
 
 ### TEST5
 
-#### questions
-
 ```text
 twig 枝条
 tandem 串联的
@@ -249,8 +233,6 @@ vulnerable 脆弱的*
 glacier melt 冰川融化*
 ```
 
-#### articles
-
 ```text
 bidirectional feedback 双向反馈*
 teacher and pupil 老师和学生
@@ -258,15 +240,50 @@ teacher and pupil 老师和学生
 nor 也不*
 ```
 
+### TEST6
+
+```text
+exploratory 探索性的
+*objective n.目的
+*subject n.主体
+*older sibling 年长的兄弟姐妹
+*firm 公司
+trail 落后
+
+*wrap 包裹
+clay 粘土
+astronaut 宇航员
+grease 油脂
+*Britain / UK 英国
+
+```
+
+```text
+engage 从事
+consultation 咨询服务
+appeal to 吸引
+circumstance 环境
+frustration 挫折
+
+graphite 石墨
+military 军事
+counterpart 对应物
+*spectrum 范围；光谱
+```
+
 
 
 ## 九分达人5
 
+### TEST1
+
+### TEST2
+
+### TEST3
+
 ### TEST4
 
 ### TEST5
-
-#### questions
 
 ```text
 qualitative descriptions 定性描述
@@ -308,8 +325,6 @@ outlook 前景
 
 ### TEST6
 
-#### questions
-
 ```text
 comprehend 理解
 excessive 过多的
@@ -325,8 +340,6 @@ social context 社会情境
 variability 变化性
 emphasis 重点
 ```
-
-#### articles
 
 ```text
 the fruits of their efforts 他/她们努力的成果
