@@ -46,11 +46,11 @@ reserve = make a booking
 ```text
 an uncommon gene 一个罕见的基因
 habitat 栖息地
-erosion 
-islands
+erosion 侵蚀
+islands 岛屿
 deforestation 森林砍伐
 exist / existence
-*reproduction
+*reproduction 
 logging companys 伐木公司
 *maintain / maintenance
 *expand / expansion
@@ -62,24 +62,51 @@ appealing 吸引人的
 
 leisure club 休闲俱乐部
 equipment / equip
-compulsory
-during peak hours
+compulsory 必修
+during peak hours 在高峰时段
 photo card
 guest
 
-postcode
+postcode 邮编
 theme park 主题公园
-lodge 小屋
+*lodge 小屋
 brochure 手册
 *campsite / tent
-*castle / desert
+*castle / desert 城堡/沙漠
 sunbathing 日光浴
 ```
 
 ## Test2
 
 ```text
+City Council 市会议
+*statue 雕塑
+*ancient forts 古代堡垒 = medieval castle 中世纪的城堡
+waterways 水道
+*jewel 宝石
+space travel 太空旅行
+*volcano(es) 火山
+ice and snow 冰雪
+replicate v.复制
+mine 矿
 
+*carving 雕刻
+formulate 制定
+setback 挫折
+demonstrate 演示
+authentic 真实
+*a stone statue 石像
+a reed boat 芦苇船
+archaeology 考古学
+methodology 方法
+weather 天气
+raft 筏
+technique n.技术
+*theory 理论
+
+footpath 行人路
+hairdresser 美发师
+*train 火车；训练
 ```
 
 ## Test3
@@ -91,6 +118,36 @@ sunbathing 日光浴
 ## Test4
 
 ```text
+*builder :a person or a company that builds or repairs buildings
+*postbox 邮箱
+*quote 引用；报价
+approximately = about 大概
+strip paint and plaster 带状油漆和灰泥
+fence 栅栏
 
+threaten 威胁
+spy 间谍 / detective 侦探
+nano-particle 纳米粒子
+secure 安全的
+caution 警告
+essential products 基本产品
+unethical 不道德的
+*plane 飞机 / plant 工厂 / plants 植物
+implication 意义
+solar energy 太阳能
+eradicate famine 消除饥荒
+
+assert 断言
+prioritize 优先
+psychology department 心理系
+personal department 人事部门
+booklet 小册子
+
+coal 煤炭 / fuel 汽油
+emigrate 移民
+copper 铜
+exhibition 展览
+ladder 阶梯
+coincide 一致
 ```
 
