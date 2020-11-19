@@ -112,7 +112,36 @@ hairdresser 美发师
 ## Test3
 
 ```text
+drop off 放下
+*enroll 注册 
+mature 成熟的
 
+make up 组成
+*scheme 方案
+*campaign 运动
+*vigour 有活力的
+expertise 专业知识
+elusive 难以捉摸的
+
+repetition 重复
+scenery 风景
+dull 单调的
+guideline 指导方针
+*boredom 无聊
+economic transformations 经济转型
+rehearsal 排练
+*institution 机构
+relevant 相关的
+*personal statement 个人陈述
+
+self-regulatory 自我调节
+*achievement 成就
+*personality 个性
+*aspirations 抱负 / ambitions 野心
+obligation 义务
+passionately 热情的
+*vision 眼光
+*innovation 革新
 ```
 
 ## Test4

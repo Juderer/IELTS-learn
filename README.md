@@ -9,12 +9,12 @@
      *  https://relatedwords.org/
   *  查询是否有文章写过这种用语：https://ludwig.guru/
   *  语法：http://www.yygrammar.com/
-  
   * 写作：https://ieltsliz.com/
+  * 基础单词：https://www.vocabulary.cl/StudentListsGames.htm
   
 * 参考链接
 
-  * 英文写作辅助网站介绍：https://zhuanlan.zhihu.com/p/35396232
+  * 英文写作辅助网站介绍：https://zhuanlan.zhihu.com/p/35396232/
 
 
 
@@ -39,7 +39,7 @@
 * **专项练习**：（黑眼睛）数字时间地点人名等
 * **题海战术**：九分达人+剑桥雅思
 
-### Writing
+### Reading
 
 * **题海战术**：九分达人+剑桥雅思
 
